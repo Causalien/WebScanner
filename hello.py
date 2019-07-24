@@ -6,6 +6,6 @@ import cgitb
 cgitb.enable()
 
 print "Content-Type: text/plain;charset=utf-8"
-print
+print "test4"
 
-print "Hello World! test f3e42rweasfd"
+print "Hello World! test f3e42rweasfd test5"
